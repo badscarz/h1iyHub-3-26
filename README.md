@@ -1,5 +1,5 @@
-# --H1IY HUB--
-h1iy hub v2.25.3.26
+-- # --H1IY HUB-- --
+--h1iy hub v2.25.3.26--
 
 -- [[ h1iy HQ ANIMATED BOOTSTRAPPER - V4 ]] --
 local UIS = game:GetService("UserInputService")
